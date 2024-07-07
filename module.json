@@ -100,7 +100,7 @@
     "css/apsjournal.css"
   ],
   "url": "https://github.com/ironmonk88/monks-enhanced-journal",
-  "download": "https://github.com/walkingpigeon/monks-enhanced-journal/archive/12.01.zip",
+  "download": "https://github.com/walkingpigeon/monks-enhanced-journal/archive/refs/tags/12.01.zip",
   "manifest": "https://github.com/walkingpigeon/monks-enhanced-journal/releases/latest/download/module.json",
   "bugs": "https://github.com/ironmonk88/monks-enhanced-journal/issues",
   "allowBugReporter": true,
